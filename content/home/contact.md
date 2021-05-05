@@ -3,6 +3,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+# This widget is active
+active: false
+
 # This file represents a page section.
 headless: true
 

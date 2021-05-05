@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
+# This widget is active
+active: false
+
 # Activate this widget? true/false
 active: true
 

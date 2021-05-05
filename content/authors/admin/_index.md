@@ -43,5 +43,4 @@ superuser: true
 title: Graham Noblit
 ---
 
- research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+I am a cultural evolutionist in the Culture, Cognition, and Coevolution Lab at Harvard University. I work to understand how political-economic institutions evolve across societies and how they impact minds. This interest helps to to understand how minds are fundamentally cultural and what our cultural origins implies for policy, politics, and even artificial intelligence.  
